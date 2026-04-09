@@ -1,2 +1,3 @@
 ### Hi 👋
- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=xyohn&show_icons=true" />
+ <img height="160px" src="./profile/stats.svg" />
+<img src="https://streak-stats.demolab.com?user=xYohn" alt="GitHub Streak" />
