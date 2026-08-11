@@ -22,5 +22,5 @@ If you'd like to reach out, please [open a Discussion](https://github.com/xyohn/
 
 ---
 
-<img src="./profile/stats.svg" />
+ <img height="160px" src="./profile/stats.svg" />
 <img src="https://streak-stats.demolab.com?user=xYohn" alt="GitHub Streak" />
